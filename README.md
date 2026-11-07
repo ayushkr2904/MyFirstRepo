@@ -1,2 +1,7 @@
+"# MyFirstRepo" 
 # MyFirstRepo
-My first Git and GitHub project
+
+This is my first GitHub repository.
+
+I am learning Git and GitHub, including repository
+creation, cloning, committing, and pushing changes.
